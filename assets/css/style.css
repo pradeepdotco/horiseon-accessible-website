@@ -85,6 +85,7 @@ main {
 }
 
 section {
+    margin-right: 20px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -95,6 +96,10 @@ section {
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+section img {
+    max-height: 200px;
 }
 
 /* Aside - Benefits Section */
@@ -111,9 +116,17 @@ aside {
 aside div {
     margin-bottom: 32px;
     color: #ffffff;
+
+}
+
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 aside h3 {
+    font-size: 20px;
     margin-bottom: 10px;
     text-align: center;
 }

@@ -3,7 +3,13 @@
 ## Overview
 Welcome to the repository of the Horiseon Agency website! Horiseon is a fictional marketing agency considered for this challenge. 
 
-This project encompasses a fully accessible and SEO-friendly website for Horiseon, a leading digital marketing agency. The focus is on ensuring a high-quality web presence that is inclusive for all users, including those with disabilities, and optimized for search engines.
+This project encompasses a fully accessible and SEO-friendly website for Horiseon, a leading digital marketing agency. The focus is on ensuring a high-quality web presence that is inclusive for all users, and making it optimized for search engines.
+
+## Website Preview
+
+Here's a look at the new Horiseon Agency website:
+
+![Horiseon Agency Website Preview](assets/images/horiseon-agency-website-screenshot.jpg)
 
 ## Features
 - **Accessibility**: The site is designed to be fully accessible, including support for screen readers, keyboard navigation, and enhanced visual contrast.

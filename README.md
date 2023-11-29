@@ -21,6 +21,8 @@ Here's a look at the new Horiseon Agency website:
 - CSS3
 
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ## Usage
 
 This website is intended as an online presence for Horiseon Agency, showcasing their services in digital marketing. It serves as a point of contact for potential clients and provides insights into the services offered.
@@ -29,7 +31,8 @@ This website is intended as an online presence for Horiseon Agency, showcasing t
 
 Distributed under the MIT License. See LICENSE for more information.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 
 ## Contact
 
